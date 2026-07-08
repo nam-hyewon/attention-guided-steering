@@ -1,0 +1,17 @@
+# Datasets and Weights
+data/raw/
+data/processed/
+*.pt
+*.pth
+*.ckpt
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.class
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.env
